@@ -4,7 +4,7 @@
 # INFORME TAREA 7
 
 **Nombre:** Emerson Solano
--
+
 **Carrera:** Mecatrónica
 
 **Fecha de entrega:** 10/02/2023
