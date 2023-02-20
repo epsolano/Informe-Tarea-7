@@ -189,7 +189,7 @@ un voltaje de entrada rms de 10 V?
   
 1. ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
-![p1](https://user- yimages.githubusercontent.com/94129932/153522826-c75affdd-c1dc-4b39-a8f8-3bca2c1a4132.png )
+![p1](https://user-images.githubusercontent.com/94129932/153522826-c75affdd-c1dc-4b39-a8f8-3bca2c1a4132.png)
 
 **SECCIÓN 14–2 El transformador básico**
   
