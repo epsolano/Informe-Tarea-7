@@ -43,7 +43,7 @@
 
 # Capítulo 14
 
-*SECCIÓN 14–1 Inductancia mutua*
+**SECCIÓN 14–1 Inductancia mutua**
   
 1. ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
