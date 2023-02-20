@@ -49,7 +49,7 @@
 
 ![p1](https://user-images.githubusercontent.com/94129932/153522826-c75affdd-c1dc-4b39-a8f8-3bca2c1a4132.png)
 
-  *SECCIÓN 14–2 El transformador básico*
+**SECCIÓN 14–2 El transformador básico**
   
 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 Respondiendo la primera pregunta:
@@ -77,7 +77,7 @@ c)Se puede apreciar en el tranformador que las bobinas estan enrolladas en direc
 
 ![image](https://user-images.githubusercontent.com/94129932/153531362-a6aaef96-4593-4607-8af7-b56aa72d86b9.png)
 
-*SECCIÓN 14–3 Transformadores elevadores y reductores*
+**SECCIÓN 14–3 Transformadores elevadores y reductores**
 
 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario
 si la relación de vueltas es de 5?
@@ -103,7 +103,7 @@ a)
 b)
 ![image](https://user-images.githubusercontent.com/94129932/153602515-5259443e-d1f2-4daa-a6e9-61420b769a8f.png)
 
-*SECCIÓN 14–4 Carga del devanado secundario**
+**SECCIÓN 14–4 Carga del devanado secundario**
 
 15. Determine las siguientes cantidades en la figura 14-46.
 
@@ -121,7 +121,7 @@ c)
 d)
 ![image](https://user-images.githubusercontent.com/94129932/153536762-8e902cb6-0c97-46dc-a1ea-ad6b94191130.png)
 
-*SECCIÓN 14–5 Carga reflejada*
+**SECCIÓN 14–5 Carga reflejada**
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
 
@@ -129,7 +129,7 @@ d)
 
 ![image](https://user-images.githubusercontent.com/94129932/153537774-2f0480af-6ecb-48ef-ab7a-587aa18f0f57.png)
 
-*SECCIÓN 14–6 Igualación de impedancia *
+**SECCIÓN 14–6 Igualación de impedancia **
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
 
@@ -137,7 +137,7 @@ d)
 
 ![image](https://user-images.githubusercontent.com/94129932/153539685-05fa273d-d695-483c-867b-310b0800b4ed.png)
 
-*SECCIÓN 14–7 Características de un transformador no ideal*
+**SECCIÓN 14–7 Características de un transformador no ideal**
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias
 de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
@@ -155,7 +155,7 @@ de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 ![image](https://user-images.githubusercontent.com/94129932/153598140-6c472df0-ee72-487c-ab75-f17a2a6d80af.png)
 
 
-*SECCIÓN 14–8 Transformadores con tomas y devanados múltiples*
+**SECCIÓN 14–8 Transformadores con tomas y devanados múltiples**
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
@@ -183,7 +183,7 @@ a)
 b)
 ![image](https://user-images.githubusercontent.com/94129932/153606859-87612279-dfc7-4465-9edc-8699f07bc53e.png)
 
-*SECCIÓN 14–9 Localización de fallas*
+**SECCIÓN 14–9 Localización de fallas**
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
