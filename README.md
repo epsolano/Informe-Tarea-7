@@ -341,7 +341,9 @@ Se extrae corriente primaria en exceso, lo que causaría que potencialmente se q
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. CONCLUSIONES**
-
+* Un inductor guarda energía en su campo magnético cuando a través de él fluye corriente
+* La interacción entre inductores da lugar a los transformadores, que producen un campo electromagnético útil para determinar diferentes características existentes entre  inductores, como son voltaje y corriente.
+* Los transformadores de potencial son los utilizados en lo que es transmisión ya que estos convierten voltajes altos en bajos voltajes estos transformadores son los que trabajan para sistemas trifásicos.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
