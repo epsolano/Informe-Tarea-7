@@ -14,12 +14,12 @@
 
 **1.1  OBJETIVO GENERAL**
 
-
+* Leer el capitulo 13 y 14 del libro *Principios de circuitos electricos-Floyd* para comprender,analizar e investigar acerca de los inductores y los transformadores.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 * Resumir los capítulos trece y catorce del libro de Floyd, para el estudio de los temas relacionados a inductores.
-* Aplicar los conocimientos aprendidos de los capítulos 13 y 14 del libro principios de circuitos electricos-Floyd para resolver ejercicios que tengan relación con el tema.
-* 
+* Aplicar los conocimientos aprendidos de los capítulos 13 y 14 del libro *Principios de circuitos electricos-Floyd* para resolver ejercicios que tengan relación con el tema.
+* Identificar los diferentes tipos de inductores y transformadores, sus funciones y características.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@
   
 1. ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
-![p1](https://user-images.githubusercontent.com/94129932/153522826-c75affdd-c1dc-4b39-a8f8-3bca2c1a4132.png)
+![p1](https://user- yimages.githubusercontent.com/94129932/153522826-c75affdd-c1dc-4b39-a8f8-3bca2c1a4132.png )
 
 **SECCIÓN 14–2 El transformador básico**
   
