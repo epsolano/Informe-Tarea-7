@@ -18,14 +18,24 @@
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
+•	Resumir los capítulos trece y catorce del libro de Floyd, para el estudio de los temas relacionados a inductores.
+
+•	Aplicar los conocimientos aprendidos de los capítulos 13 y 14 del libro principios de circuitos electricos-Floyd para resolver ejercicios que tengan relación con el tema.
+
+•	
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**
 # Capítulo 13
 
+![image](https://user-images.githubusercontent.com/93794279/153586600-931f24d3-0ca8-45c7-b9f9-f2a1934f937f.png)
+
+![image](https://user-images.githubusercontent.com/93794279/153588775-82c20d21-1af4-47ed-9747-3b5dd5bc4733.png)
 
 # Capítulo 14
 
+![image](https://user-images.githubusercontent.com/93794279/153590176-edc59369-404f-48b9-ab64-00d15a0bba66.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
