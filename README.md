@@ -59,4 +59,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
-Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.11 y 12). Prentice Hall
+1. Qué es un inductor y cómo funciona. (2018, February 9). Plantas eléctricas. https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+2. Banerjee, K. (2021, June 15). Inductores en serie y paralelo. Lambda Geeks. https://es.lambdageeks.com/inductors-in-series-and-parallel/
+3.Electromecánicos, A. (n.d.). UNIDAD 2: Transformadores. Edu.Ar. Retrieved February 11, 2022, from https://rephip.unr.edu.ar/bitstream/handle/2133/16745/21503-19%20ACCIONAMIENTOS%20ELECTROMEC%C3%81NICOS%20Transformadores.pdf?sequence=3&isAllowed=y
+4. Ryff, P. F., & etc. (1986). Electrical machines and transformers: Principles and applications. Prentice Hall.
+5. Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.11 y 12). Prentice Hall
