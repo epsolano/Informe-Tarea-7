@@ -14,7 +14,7 @@
 
 **1.1  OBJETIVO GENERAL**
 
-* Leer el capitulo 13 y 14 del libro *Principios de circuitos electricos-Floyd* para comprender,analizar e investigar acerca de los inductores y los transformadores.
+* Leer el capitulo 13 y 14 del libro *Principios de circuitos electricos-Floyd* para comprender, analizar e investigar acerca de los inductores y los transformadores.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 * Resumir los capítulos trece y catorce del libro de Floyd, para el estudio de los temas relacionados a inductores.
@@ -39,6 +39,147 @@
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 # Capítulo 13
+
+**SECCIÓN 13-1 El inductor básico**
+1. Convierta los siguientes valores en milihenries: 
+
+(a) 1 H = 1000 mH 	(b) 250µH = 2,5x10^-4	(c) 10µH = 10^-5 	(d) 0.0005 H = 0.5mH
+
+3. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/µs y L = 5 µH?
+
+Vind=L*di/dt
+Vind=5 mH*10 mA/ms
+Vind=50 mV
+
+5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+Vind=L*di/dt
+200 mA/s*(1 s)/(1000 ms)=0.2 mA/ms
+Vind=100 mH*0.2 mA/ms
+Vind=20 mV
+
+7. ¿Qué cantidad de energía se guarda en un inductor de 4,7 mH cuando la corriente es de 20 mA?
+
+W=1/2LI^2
+W=1/24.7 mH[(20 mA)]^2
+W=940 mJ
+
+9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).
+
+La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2μA)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1.
+
+**SECCIÓN 13-3 Inductores en serie y paralelo**
+
+11. Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+
+L_T = L_1+L_2+L_3+⋯+L_n
+L_T = (5+10+20+40+80) μH
+L_T = 155 μH
+
+13. Determine la inductancia total en la figura 13-44
+
+![axel_imagen13](https://user-images.githubusercontent.com/99141342/152921264-a2b83e7a-8dd1-41fd-8e4b-dbf0af4b5fb6.png)
+
+
+L_T=L_1+L_2+L_3+⋯+L_n
+500 μH*(1 mH)/(1000 μH)=0.5 mH
+L_T= (50+0.5+0.01) mH
+L_T=50.51 mH
+
+15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
+
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+1/L_T =1/75 μH+1/50 μH+1/25 μH+1/15 μH
+1/L_T =7/50 μH
+L_T=50/7 μH=7.14 μH
+
+17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
+
+![axel_imagen17](https://user-images.githubusercontent.com/99141342/152921335-1675d590-cc8f-4180-802b-1ee4b5cb0c06.png)
+
+(a)
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+1/L_T =1/10 H+1/5 H
+1/L_T =3/10 H
+1/L_T =10/3 H=3.33 H
+L_T=L_1+L_2+L_3+⋯+L_n
+L_T=(3.33+1)H
+L_T=4.33 H
+(b)
+L_T=L_1+L_2+L_3+⋯+L_n
+L_T=(50+50) mH
+L_T=100 mH
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+1/L_T =1/100 mH+1/100 mH
+1/L_T =2/100 mH
+L_T =100/2 mH=50 mH
+(c)
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+1/L_T =1/200 μH+1/100 μH+1/400 μH
+1/L_T =7/400 μH
+L_T =400/7 μH=57.14 μH
+
+**SECCIÓN 13-4 Inductores en circuitos de cd**
+
+19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+(a) R= 100 Ω, L= 100µH
+T=L/R
+100μH*1mH/(1000 μH)*1H/(1000 mH)=0.0001 H
+T=(0.0001 H)/(100 Ω)
+T=0.000001 s=1 μs
+
+(b) R= 4,7 kΩ, L=10mH
+
+T=L/R
+10mH*1H/(1000 mH)=0.01 H
+4.7 kΩ*1000Ω/(1 kΩ )=4700 Ω
+T=(0.01 H)/(4700 Ω)
+T=0.000002128 s=2.13 μs
+
+
+(c) R= 1.5MΩ, L=3H
+T=L/R
+1.5 MΩ*1000000Ω/(1 MΩ)=1500000 Ω
+T=(3 H)/(1500000 Ω)
+T=0.000002 s=2 μs
+
+
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![FIGURA 1](https://user-images.githubusercontent.com/99141342/152904702-c8b68ecc-0b63-4224-a7c8-73cf899afe43.PNG)
+
+![FIGURA 2](https://user-images.githubusercontent.com/99141342/152904716-a40ec62c-2581-4030-a7af-f5f8fc2bd823.PNG)
+
+27. Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![FIGURA 3](https://user-images.githubusercontent.com/99141342/152904758-7f0ab640-edad-412f-95c0-7e9d9383819f.PNG)
+
+![FIGURA 4](https://user-images.githubusercontent.com/99141342/152904766-66157791-1062-478c-8d41-0ca168051c7e.PNG)
+
+*29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre
+¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+![FIGURA 5](https://user-images.githubusercontent.com/99141342/152904833-2965725a-5cfe-4a54-9993-a283441744e6.PNG)
+
+**SECCIÓN 13-5 Inductores de circuitos en ca**
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
+de 400 Hz.
+
+![FIGURA 6](https://user-images.githubusercontent.com/99141342/152905027-4ce98853-a41b-4a48-9c8c-72a669c315e4.PNG)
+
+![FIGURA 7](https://user-images.githubusercontent.com/99141342/152905032-0f2884cc-e693-42c6-a972-0669cc9af5e4.PNG)
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
+un voltaje de entrada rms de 10 V?
+
+![FIGURA 8](https://user-images.githubusercontent.com/99141342/152905076-780c9ed3-ab3d-4724-b649-1a6dfd35f387.PNG)
+
+35. Determine IL2 en la figura 13-52.
+
+![FIGURA 9](https://user-images.githubusercontent.com/99141342/152905112-936d9def-76d4-4a6f-b6d7-ab48b6b0c6fc.PNG)
+
+![FIGURA 10](https://user-images.githubusercontent.com/99141342/152905118-a0a5a530-d4b2-420c-b8d9-3703cd48ccf4.PNG)
 
 
 # Capítulo 14
